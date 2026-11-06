@@ -1,0 +1,10 @@
+{
+  "name": "privacy-monitor-backend",
+  "version": "0.1.0",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.13" },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
